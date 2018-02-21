@@ -1,0 +1,91 @@
+
+ h1 {
+    font-family:'helvetica', serif;
+    text-align: center;
+   
+}
+ul {
+    list-style: none;
+}
+li {
+    font-family:'helvetica', serif;
+    font-size: 2em;
+}
+input[type=radio] {
+    border: 0px;
+    width: 20px;
+    height: 2em;
+}
+p {
+    font-family:'helvetica', serif;
+}
+
+ .quizContainer {
+    background-color: yellow;
+    border-radius: 6px;
+    width: 75%;
+    margin: auto;
+    padding-top: 5px;
+    position: relative;
+    
+}
+.nextButton {
+    background-color: yellow;
+    border-radius: 6px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    color: red;
+    font-family:'helvetica', serif;
+    position: relative;
+    margin: auto;
+    padding-top: 20px;
+   
+}
+.question {
+    background-color: yellow;
+    font-family:'helvetica', serif;
+    font-size: 2em;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    border-radius: 6px;
+    text-align: center;
+    
+}
+.quizMessage {
+    background-color: yellow;
+    border-radius: 6px;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    padding: 2px;
+    font-family:'helvetica', serif;
+    color: red;
+}
+.choiceList {
+    background-color: yellow;
+    font-family: helvetica, serif;
+    color: blue;
+  
+}
+.result {
+    background-color: yellow;
+    width: 30%;
+    height: auto;
+    border-radius: 6px;
+    margin: auto;
+    text-align: center;
+    font-family:'helvetica', serif;
+}
+
+.timer {
+    width: 30%;
+    height: auto;
+    border-radius: 6px;
+    margin: auto;
+    text-align: center;
+    font-family:'helvetica', serif;
+    
+
+}
